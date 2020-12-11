@@ -1,0 +1,10 @@
+{
+    "name": "bae-gui-loader",
+    "dependencies": {
+        "jade": "^1.11.0",
+        "express": "^4.x",
+        "i18n-2": "^0.7.2",
+        "cookie-parser": "1.4.0",
+        "express-session": "1.12.1"
+    }
+}
